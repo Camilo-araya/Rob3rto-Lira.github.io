@@ -1,0 +1,22 @@
+body {
+  background-color:aliceblue;
+}
+
+.navcolor {
+  background-color: darkslategray;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.navcolor * {
+  color: white;
+}
+
+img {
+  height: 20rem;
+}
+
+.grid * {
+  display: flex;
+  justify-content: center;
+}
